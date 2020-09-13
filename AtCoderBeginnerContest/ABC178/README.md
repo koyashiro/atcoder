@@ -2,6 +2,13 @@
 
 https://atcoder.jp/contests/abc178
 
+- [x] A - Not
+- [x] B - Product Max
+- [x] C - Ubiquity
+- [ ] D - Redistribution
+- [ ] E - Dist Max
+- [ ] F - Contrast
+
 ## A - Not
 
 https://atcoder.jp/contests/abc178/tasks/abc178_a
