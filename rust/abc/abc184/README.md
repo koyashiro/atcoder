@@ -6,7 +6,7 @@ https://atcoder.jp/contests/abc184
 
 - [x] [B - Quizzes](https://atcoder.jp/contests/abc184/tasks/abc184_b)
 
-- [ ] [C - Super Ryuma](https://atcoder.jp/contests/abc184/tasks/abc184_c)
+- [x] [C - Super Ryuma](https://atcoder.jp/contests/abc184/tasks/abc184_c)
 
 - [ ] [D - increment of coins](https://atcoder.jp/contests/abc184/tasks/abc184_d)
 
